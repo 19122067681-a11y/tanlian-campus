@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://19122067681-a11y.github.io/tanlian-campus/sitemap.xml
